@@ -1,0 +1,106 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.0 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{cms/global//global/global}
+    \entry{IEA}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=b33b47b3008c8c47f90a77e0c2dd3060}{%
+           family={{International Energy Agency}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{b33b47b3008c8c47f90a77e0c2dd3060}
+      \strng{fullhash}{b33b47b3008c8c47f90a77e0c2dd3060}
+      \strng{bibnamehash}{b33b47b3008c8c47f90a77e0c2dd3060}
+      \strng{authorbibnamehash}{b33b47b3008c8c47f90a77e0c2dd3060}
+      \strng{authornamehash}{b33b47b3008c8c47f90a77e0c2dd3060}
+      \strng{authorfullhash}{b33b47b3008c8c47f90a77e0c2dd3060}
+      \field{sortinit}{I}
+      \field{sortinithash}{320bc8fe8101b9376f9f21cd507de0e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Key World Energy Statistics}
+      \field{year}{}
+      \verb{urlraw}
+      \verb ftp://ftp.energia.bme.hu/pub/energetikai_alapismeretek/KeyWorld_Statistics_2015.pdf
+      \endverb
+      \verb{url}
+      \verb ftp://ftp.energia.bme.hu/pub/energetikai_alapismeretek/KeyWorld_Statistics_2015.pdf
+      \endverb
+    \endentry
+    \entry{LBM}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=a780b92946fdf7cc1e22e08959cd49e3}{%
+           family={{Jordan Pierce}},
+           familyi={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{a780b92946fdf7cc1e22e08959cd49e3}
+      \strng{fullhash}{a780b92946fdf7cc1e22e08959cd49e3}
+      \strng{bibnamehash}{a780b92946fdf7cc1e22e08959cd49e3}
+      \strng{authorbibnamehash}{a780b92946fdf7cc1e22e08959cd49e3}
+      \strng{authornamehash}{a780b92946fdf7cc1e22e08959cd49e3}
+      \strng{authorfullhash}{a780b92946fdf7cc1e22e08959cd49e3}
+      \field{sortinit}{J}
+      \field{sortinithash}{fce5f8d0bd05e8d93f3dbe21c78897ca}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Bifurcation Diagram}
+      \field{year}{}
+      \verb{urlraw}
+      \verb https://en.wikipedia.org/wiki/Logistic_map#cite_note-3
+      \endverb
+      \verb{url}
+      \verb https://en.wikipedia.org/wiki/Logistic_map#cite_note-3
+      \endverb
+    \endentry
+    \entry{UN}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=763e18ee04840a0eee0283dbe777d84c}{%
+           family={{United Nations Development Programme}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{763e18ee04840a0eee0283dbe777d84c}
+      \strng{fullhash}{763e18ee04840a0eee0283dbe777d84c}
+      \strng{bibnamehash}{763e18ee04840a0eee0283dbe777d84c}
+      \strng{authorbibnamehash}{763e18ee04840a0eee0283dbe777d84c}
+      \strng{authornamehash}{763e18ee04840a0eee0283dbe777d84c}
+      \strng{authorfullhash}{763e18ee04840a0eee0283dbe777d84c}
+      \field{sortinit}{U}
+      \field{sortinithash}{36a2444f5238e0dcf4bb59704df6624d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{World Energy Assessment}
+      \field{year}{}
+      \verb{urlraw}
+      \verb https://www.undp.org/content/dam/aplaws/publication/en/publications/environment-energy/www-ee-library/sustainable-energy/world-energy-assessment-energy-and-the-challenge-of-sustainability/World%20Energy%20Assessment-2000.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.undp.org/content/dam/aplaws/publication/en/publications/environment-energy/www-ee-library/sustainable-energy/world-energy-assessment-energy-and-the-challenge-of-sustainability/World%20Energy%20Assessment-2000.pdf
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
